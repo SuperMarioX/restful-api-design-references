@@ -23,6 +23,7 @@
  17. [知乎上关于rest的讨论](https://www.zhihu.com/question/28557115)
  18. [hypertext-driven REST APIS](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
  19. [REST基本概念详解](http://kb.cnblogs.com/page/512047/)
+ 20. [本真REST架构风格](http://www.infoq.com/cn/articles/understanding-restful-style)
 
 #### 知识碎片 ####
 
